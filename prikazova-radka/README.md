@@ -1,3 +1,0 @@
-# Příkazová řádka
-
-Pppp
